@@ -1,4 +1,6 @@
-## Hi there 👋
+# Newicon
+
+Hi there 👋 this is the GitHub organisation profile of [Newicon](https://newicon.net)
 
 <!--
 
