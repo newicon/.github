@@ -2,6 +2,10 @@
 
 Hi there 👋 this is the GitHub organisation profile of [Newicon](https://newicon.net)
 
+## Open-source
+
+This is where we are contributig our open source projects 
+
 <!--
 
 **Here are some ideas to get you started:**
