@@ -1,10 +1,10 @@
 # Newicon
 
-Hi there 👋 this is the GitHub organisation profile of [Newicon](https://newicon.net)
+Hi there 👋 this is the GitHub organisation profile of [Newicon](https://newicon.net).
 
 ## Open-source
 
-This is where we are contributig our open source projects 
+This is where we are contributing our open source projects.
 
 <!--
 
